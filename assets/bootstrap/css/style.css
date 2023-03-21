@@ -1,0 +1,26 @@
+
+d{
+    color: rgb(255, 183, 0);
+    
+}
+img.logo{
+    width: 200px;
+    height: auto
+}
+
+@media screen and (min-width: 0px) and (max-width: 440px) {
+  img.logo {
+    width: 135px;
+    height: auto;
+    
+  }  
+}
+@media screen {
+    div#navbat{
+       size: 10%;
+        }
+}
+
+pad{
+    padding-right: 0;
+}
